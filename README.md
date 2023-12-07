@@ -44,4 +44,4 @@ Used this section to recap over some important html elements and css properties.
 
 ## Acknowledgments
 
-Thanks to all everyone who share there knowledge to the world..🎉👏😊
+Thanks to everyone who share there knowledge to the world..🎉👏😊
